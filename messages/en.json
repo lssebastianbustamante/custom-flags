@@ -1,0 +1,19 @@
+{
+  "store/custom-flags.discountTitle": "Discount:",
+  "store/custom-flags.discountSubtitle": "Up to {value}",
+  "store/custom-flags.volumetricTitle": "Volume Discount:",
+  "store/custom-flags.volumetricSubtitle": "The more units you buy, the bigger the discount.",
+  "store/custom-flags.morelessTitle": "More for Less:",
+  "store/custom-flags.morelessSubtitle": "Get {value} {value2} pay only {value3}",
+  "store/custom-flags.comboTitle": "Combo:",
+  "store/custom-flags.comboSubtitle": "Get {value}",
+  "store/custom-flags.productgiftTitle": "Gift:",
+  "store/custom-flags.productgiftSubtitle": "By getting {value} {value2} you get {value3} as a gift",
+  "store/custom-flags.productgiftListTitle": "You can choose",
+  "store/custom-flags.usageLimitClient": " Maximum {value} promotions per client.",
+  "store/custom-flags.usageLimitCart": " Maximum {value} units in your cart.",
+  "store/custom-flags.usageLimitStore": " Maximum {value} promotions in the store.",
+  "store/custom-flags.termsAndConditionsLimitStore": "Terms and conditions apply:",
+  "store/custom-flags.titleDisclaimerInfo": "Promotions:",
+  "store/custom-flags.textDisclaimerInfo": "You can have more information by clicking on the tags"
+}

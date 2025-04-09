@@ -1,0 +1,17 @@
+{
+  "custom-flags": {
+    "component": "CustomFlags",
+    "composition":"children",
+    "render": "client"
+  },
+  "custom-flags-with-product-list": {
+    "component": "CustomFlagsWithProductList"
+  },
+  "custom-condition-promotion": {
+    "component": "CustomConditionPromotion",
+    "composition": "children"
+  },
+  "dynamic-promotion": {
+    "component": "CustomDynamicPromotion"
+  }
+}

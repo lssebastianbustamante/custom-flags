@@ -1,0 +1,22 @@
+query queryPromotionById($promotionId: String) {
+  listPromotionById(promotionId: $promotionId) {
+
+    idCalculatorConfiguration
+    name
+    isActive
+    isFeatured
+    maxUsage
+    maxUsagePerClient
+    maxNumberOfAffectedItems
+    quantityToAffectBuyTogether
+    skusGift  {
+      gifts {
+          name
+            id
+        quantity
+        }
+    }
+    type
+
+  }
+}

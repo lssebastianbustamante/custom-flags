@@ -1,0 +1,19 @@
+{
+  "store/custom-flags.discountTitle": "Descuento:",
+  "store/custom-flags.discountSubtitle": "Hasta un {value}",
+  "store/custom-flags.volumetricTitle": "Descuento por volumen:",
+  "store/custom-flags.volumetricSubtitle": "Cuantas más unidades comprás, mayor descuento obtenés.",
+  "store/custom-flags.morelessTitle": "Más por menos:",
+  "store/custom-flags.morelessSubtitle": "Llevate {value} {value2} pagá solo {value3}",
+  "store/custom-flags.comboTitle": "Combo:",
+  "store/custom-flags.comboSubtitle": "Llevate {value} ",
+  "store/custom-flags.productgiftTitle": "Regalo:",
+  "store/custom-flags.productgiftSubtitle": "Llevando {value} {value2} tenés {value3} de regalo",
+  "store/custom-flags.productgiftListTitle": "Podés elegir",
+  "store/custom-flags.usageLimitClient": " Máximo {value} promociones por cliente.",
+  "store/custom-flags.usageLimitCart": " Máximo {value} unds en tu carrito.",
+  "store/custom-flags.usageLimitStore": " Máximo {value} promociones en la tienda.",
+  "store/custom-flags.termsAndConditionsLimitStore": "Aplican términos y condiciones:",
+  "store/custom-flags.titleDisclaimerInfo": "Promociones:",
+  "store/custom-flags.textDisclaimerInfo": "Podes tener más de una información haciendo clic sobre las etiquetas"
+}
