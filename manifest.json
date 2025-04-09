@@ -22,9 +22,6 @@
     "vtex.search-page-context": "0.x",
     "vtex.pixel-manager": "1.x"
   },
-  "peerDependencies": {
-    "mdlzargentina.list-promotions": "1.x"
-  },
   "registries": [
     "smartcheckout"
   ],

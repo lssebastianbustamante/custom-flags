@@ -1,6 +1,6 @@
 import { FormattedMessage } from 'react-intl'
 import type { PromotionProps } from '../../../typings/interfaces'
-import CustomDescTable from 'mdlzargentina.custom-desc-table/CustomDescTablet'
+
 import MessageInfoLimits from './MessageInfoLimits'
 import { messages } from '../../messages'
 

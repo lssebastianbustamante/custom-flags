@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useApolloClient } from 'react-apollo'
 import { useProduct } from 'vtex.product-context'
-import { useSimulationContext } from 'mdlzargentina.custom-simulation-product/simulationContext'
 
 import FallbackComponent from './components/FallbackComponent';
 import ItemFlagPromotion from './components/ItemFlagPromotion';

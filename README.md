@@ -125,7 +125,7 @@ Implemented a custom modal with CSS handles to manipulate its properties.
 
 Configuration can be done via App Settings:
 
-[App Settings URL](https://{ws}--{vendor}.myvtex.com/admin/apps/mdlzargentina.custom-flags@1.0.1)
+[App Settings URL](https://{ws}--{vendor}.myvtex.com/admin/apps)
 
 | Configuracion via App settings                      |
 | --------------------------------------------------- |
